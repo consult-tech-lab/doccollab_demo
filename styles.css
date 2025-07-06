@@ -1,0 +1,14 @@
+body { font-family: Arial, sans-serif; background: #f7f7f7; margin: 0; }
+#app { max-width: 600px; margin: 40px auto; background: #fff; border-radius: 10px; box-shadow: 0 2px 8px rgba(0,0,0,0.08); padding: 24px; }
+header { display: flex; justify-content: space-between; align-items: center; }
+h1 { color: #1976d2; }
+section { margin-bottom: 32px; }
+textarea { width: 100%; min-height: 60px; margin-bottom: 8px; padding: 8px; border-radius: 4px; border: 1px solid #ccc; }
+button { padding: 8px 16px; border: none; background: #1976d2; color: #fff; border-radius: 4px; cursor: pointer; transition: background 0.2s; }
+button:hover, .resourceBtn:hover { background: #1565c0; }
+.resourceBtn { margin-right: 8px; margin-bottom: 8px; }
+#qaFeed { list-style: none; padding: 0; }
+#qaFeed li { background: #e3f2fd; margin-bottom: 8px; padding: 8px; border-radius: 4px; display: flex; justify-content: space-between; align-items: center; }
+.deleteBtn { background: #e53935; margin-left: 8px; }
+.deleteBtn:hover { background: #b71c1c; }
+input[type="email"], input[type="password"] { padding: 8px; margin: 4px 0; width: 100%; border-radius: 4px; border: 1px solid #ccc; }

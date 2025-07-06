@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>DocCollab Demo</title>
+  <link rel="stylesheet" href="styles.css" />
+  <!-- Firebase SDKs -->
+  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app-compat.js"></script>
+  <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth-compat.js"></script>
+</head>
+<body>
+  <div id="app">
+    <header>
+      <h1>DocCollab</h1>
+      <button id="logoutBtn" style="display:none;">Logout</button>
+    </header>
+    <section id="login-section">
+      <h2>Login</h2>
+      <input type="email" id="email" placeholder="Email" />
+      <input type="password" id="password" placeholder="Password" />
+      <button id="loginBtn">Login</button>
+      <button id="signupBtn">Sign Up</button>
+      <div id="loginError"></div>
+    </section>
+    <section id="qa-section" style="display:none;">
+      <h2>Live Q&A</h2>
+      <textarea id="questionInput" placeholder="Ask a question..."></textarea>
+      <button id="submitQuestionBtn">Submit</button>
+      <ul id="qaFeed"></ul>
+    </section>
+    <section id="pdf-section" style="display:none;">
+      <h2>Upload PDF for AI Summary</h2>
+      <input type="file" id="pdfInput" accept="application/pdf" />
+      <button id="summarizeBtn">Summarize with AI</button>
+      <div id="summaryOutput"></div>
+    </section>
+    <section id="resources-section" style="display:none;">
+      <h2>Resources</h2>
+      <button class="resourceBtn" onclick="window.open('https://pubmed.ncbi.nlm.nih.gov/', '_blank')">PubMed</button>
+      <button class="resourceBtn" onclick="window.open('https://scholar.google.com/', '_blank')">Google Scholar</button>
+      <button class="resourceBtn" onclick="window.open('https://www.webmd.com/', '_blank')">WebMD</button>
+    </section>
+  </div>
+  <script src="app.js"></script>
+</body>
+</html>

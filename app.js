@@ -1,14 +1,15 @@
 // === Firebase Config ===
 const firebaseConfig = {
- apiKey: "AIzaSyBncbQrIwPCy2SwnP-nbhkHf4HjGgryg44",
+  apiKey: "AIzaSyBncbQrIwPCy2SwnP-nbhkHf4HjGgryg44",
   authDomain: "doccollabdemo.firebaseapp.com",
   projectId: "doccollabdemo",
-  storageBucket: "doccollabdemo.firebasestorage.app.com",
+  storageBucket: "doccollabdemo.appspot.com",
   messagingSenderId: "691447074774",
   appId: "1:691447074774:web:67e7074be4a17b4d389e77"
 };
 firebase.initializeApp(firebaseConfig);
 const auth = firebase.auth();
+
 
 // === Authentication Logic ===
 const loginSection = document.getElementById('login-section');

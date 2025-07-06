@@ -32,10 +32,10 @@ Doc Collab is designed to scale across:
 - Global collaborations with secure language support
 
 ## Devices Supported
-- ✅ iOS / Android Smartphones
-- ✅ iPads / Tablets
-- ✅ Apple Watch / WearOS
-- ✅ Secure Desktops (VDI/EMR environments)
+- iOS / Android Smartphones
+- iPads / Tablets
+- Apple Watch / WearOS
+- Secure Desktops (VDI/EMR environments)
 
 ## Join the Movement
 ClariMed Cloud empowers providers to **collaborate without compromise** — improving clinical decisions while keeping data safe.

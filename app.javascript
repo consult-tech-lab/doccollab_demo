@@ -3,7 +3,7 @@ const firebaseConfig = {
  apiKey: "AIzaSyBncbQrIwPCy2SwnP-nbhkHf4HjGgryg44",
   authDomain: "doccollabdemo.firebaseapp.com",
   projectId: "doccollabdemo",
-  storageBucket: "doccollabdemo.firebasestorage.app",
+  storageBucket: "doccollabdemo.firebasestorage.app.com",
   messagingSenderId: "691447074774",
   appId: "1:691447074774:web:67e7074be4a17b4d389e77"
 };

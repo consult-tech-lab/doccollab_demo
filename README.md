@@ -38,7 +38,7 @@ Doc Collab is designed to scale across:
 - Secure Desktops (VDI/EMR environments)
 
 ## Join the Movement
-ClariMed Cloud empowers providers to **collaborate without compromise** — improving clinical decisions while keeping data safe.
+DocCollab empowers providers to **collaborate without compromise** — improving clinical decisions while keeping data safe.
 
 > "Built for Docs. Backed by cloud. Protected by design."
 

@@ -1,5 +1,5 @@
 # Doc Collab
-A HIPAA-focused, cloud-native SaaS prototype enabling secure, scalable collaboration for medical professionals during patient rounds, conferences, and remote care.
+A HIPAA-focused, SaaS prototype enabling secure, scalable collaboration for medical professionals during patient rounds, conferences, and remote care.
 
 ##Core Features
 - **End-to-End Encrypted Doc-to-Doc Collaboration**

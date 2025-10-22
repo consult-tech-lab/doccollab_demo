@@ -17,6 +17,7 @@ A HIPAA-focused, SaaS prototype enabling secure, scalable collaboration for medi
  **Secure Live Video for Case Conferences**
 -  **Medical Imaging + Annotation Tools**
 - **Wearable Device Sync for Vital Data in Real Time**
+- **Artificial Intelligence**
 
 ## Security & Compliance
 - Built on a HIPAA-compliant cloud architecture

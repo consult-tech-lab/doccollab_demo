@@ -8,10 +8,17 @@ A HIPAA-focused, SaaS prototype enabling secure, scalable collaboration for medi
 - **Session-Based Collaboration for Rounds & Remote Teams**
 - **Data Logging for Compliance (HIPAA, HITECH)**
 
-##AI & Language Capabilities (Coming Soon )
-- **AI-Powered Medical Note Summarization** (LLM)
-- **Live Language Translation with Medical Accuracy**
-- **AI-Powered ICD/SNOMED Tagging**
+**AI & Language Capabilities**
+**Coming Soon**
+
+-Ambient AI documentation support that listens to the clinical encounter, transcribes dictated content, 
+and generates a concise SOAP-style note for review and entry into the EHR.
+
+-AI-assisted note summarization to streamline documentation and reduce administrative burden.
+
+-Medical translation capabilities to support accurate multilingual communication.
+
+-Automated ICD/SNOMED tagging to assist with clinical coding and data organization.
 
 ## Future Add-ons
  **Secure Live Video for Case Conferences**

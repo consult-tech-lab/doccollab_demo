@@ -48,5 +48,5 @@ Doc Collab is designed to scale across:
 ## Join the Movement
 DocCollab empowers providers to **collaborate without compromise** — improving clinical decisions while keeping data safe.
 
-> "Built for Docs. Backed by cloud. Protected by design."
+ 
 

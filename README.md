@@ -48,5 +48,5 @@ Doc Collab is designed to scale across:
 ## Join the Movement
 DocCollab empowers providers to **collaborate without compromise** — improving clinical decisions while keeping data safe.
 
- 
-
+ To a video on this prototype, click below
+https://docs.google.com/videos/d/1QG4BZg4NFK7awkqnQLvebpIyHWCJ7_OrXZO_Z0UzxvY/edit?usp=sharing

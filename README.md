@@ -1,6 +1,8 @@
-<img width="1342" height="635" alt="screenshot-DocCollab_login_page_w_un_pw" src="https://github.com/user-attachments/assets/5c56b327-68ba-4882-acd5-b8341fee0444" />
 
-<img width="639" height="581" alt="screenshot-DocCollab_Welcome_Screen_001" src="https://github.com/user-attachments/assets/77c38b66-41e3-4aec-a71f-3ca385320d70" />
+
+https://github.com/user-attachments/assets/9dc82824-a793-4413-96b7-6f41134c8998
+
+
 
 # Doc Collab
 A HIPAA-focused, SaaS prototype enabling secure, scalable collaboration for medical professionals during patient rounds, conferences, and remote care.
@@ -52,7 +54,9 @@ Doc Collab is designed to scale across:
 ## Join the Movement
 DocCollab empowers providers to **collaborate without compromise** — improving clinical decisions while keeping data safe.
 
+<img width="1342" height="635" alt="screenshot-DocCollab_login_page_w_un_pw" src="https://github.com/user-attachments/assets/5c56b327-68ba-4882-acd5-b8341fee0444" />
 
+<img width="639" height="581" alt="screenshot-DocCollab_Welcome_Screen_001" src="https://github.com/user-attachments/assets/77c38b66-41e3-4aec-a71f-3ca385320d70" />
 
 
  

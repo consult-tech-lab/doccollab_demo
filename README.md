@@ -30,10 +30,12 @@ and generates a concise SOAP-style note for review and entry into the EHR.
 -Automated ICD/SNOMED tagging to assist with clinical coding and data organization.
 
 ## Future Add-ons
- **Secure Live Video for Case Conferences**
+ 
+- **Secure Live Video for Case Conferences**
 -  **Medical Imaging + Annotation Tools**
-- **Wearable Device Sync for Vital Data in Real Time**
-- **Artificial Intelligence**
+-  **Wearable Device Sync for Vital Data in Real Time**
+-  **Research Aggregator; Supporting structured analysis of large-scale clinical and research datasets**
+-  **Artificial Intelligence**
 
 ## Security & Compliance
 - Built on a HIPAA-compliant cloud architecture

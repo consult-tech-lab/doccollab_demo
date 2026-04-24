@@ -15,8 +15,9 @@ A HIPAA-focused, SaaS prototype enabling secure, scalable collaboration for medi
 - **Data Logging for Compliance (HIPAA, HITECH)**
 
 **AI & Language Capabilities**
-**Coming Soon**
+-It currently features PDF upload for AI-powered summarization as the initial prototype capability, with the long-term goal of evolving into an Ambient AI system that generates real-time clinical notes. It also integrates reference resources to support quick access to clinical evidence and faster, more informed decision-making.
 
+**Coming Soon**
 -Ambient AI documentation support that listens to the clinical encounter, transcribes dictated content, 
 and generates a concise SOAP-style note for review and entry into the EHR.
 

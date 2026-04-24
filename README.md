@@ -29,14 +29,6 @@ and generates a concise SOAP-style note for review and entry into the EHR.
 
 -Automated ICD/SNOMED tagging to assist with clinical coding and data organization.
 
-## Future Add-ons
- 
-- **Secure Live Video for Case Conferences**
--  **Medical Imaging + Annotation Tools**
--  **Wearable Device Sync for Vital Data in Real Time**
--  **Research Aggregator; Supporting structured analysis of large-scale clinical and research datasets**
--  **Artificial Intelligence**
-
 ## Security & Compliance
 - Built on a HIPAA-compliant cloud architecture
 - MFA, Role-Based Access Control, and Audit Logs
@@ -55,6 +47,15 @@ Doc Collab is designed to scale across:
 - iPads / Tablets
 - Apple Watch / WearOS
 - Secure Desktops (VDI/EMR environments)
+
+  ## Future Add-ons
+ 
+- **Secure Live Video for Case Conferences**
+-  **Medical Imaging + Annotation Tools**
+-  **Wearable Device Sync for Vital Data in Real Time**
+-  **Research Aggregator; Supporting structured analysis of large-scale clinical and research datasets**
+-  **Artificial Intelligence**
+
 
 ## Join the Movement
 DocCollab empowers providers to **collaborate without compromise** — improving clinical decisions while keeping data safe.
